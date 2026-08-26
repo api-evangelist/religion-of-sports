@@ -1,0 +1,44 @@
+# Religion of Sports
+
+> Religion of Sports is an Emmy Award-winning sports media and entertainment production studio
+> founded in 2017 by Tom Brady, Michael Strahan and Gotham Chopra, operating as
+> The Religion of Sports Media, Inc. out of Santa Monica, California. It produces premium
+> non-fiction film, documentary series and branded content for Netflix, HBO, Paramount+, ESPN,
+> Apple TV+, Showtime, Fox Sports and NBC Sports.
+
+## No API surface
+
+Religion of Sports publishes **no public API**. As of 2026-08-26 there is no developer portal,
+no API reference, no SDK, no webhook catalog, no MCP server and no A2A agent card. Contract
+discovery was run against the only public host (www.religionofsports.com) and every candidate
+path returned HTTP 404: /openapi.json, /openapi.yaml, /swagger.json, /v1/openapi.json,
+/api-docs, /docs, /redoc, /graphql, /llms.txt, /sitemap.xml, and all seven probed
+/.well-known/ documents. The host api.religionofsports.com does not resolve in DNS.
+Do not attempt to call an API here; there is none to call.
+
+## Company
+
+- [Home](https://www.religionofsports.com/): studio overview and current slate
+- [About](https://www.religionofsports.com/about): company mission and history
+- [Team](https://www.religionofsports.com/team): founders, executives and creative leadership
+- [Projects](https://www.religionofsports.com/projects): the full catalog of produced titles
+- [News](https://www.religionofsports.com/news): dated press and announcement index
+- [Contact](https://www.religionofsports.com/contact): the only inbound channel the company publishes
+
+## Selected work
+
+- [Simone Biles Rising](https://www.religionofsports.com/projects) (Netflix)
+- [Made for March](https://www.religionofsports.com/projects/made-for-march) (Paramount+)
+- [5-Star](https://www.religionofsports.com/projects/5-star) (Paramount+)
+- [Alex vs. ARod](https://www.religionofsports.com/projects/alex-vs-arod) (HBO)
+
+## Legal
+
+- [Terms of Service](https://www.religionofsports.com/terms-of-service)
+- [California Privacy Policy](https://www.religionofsports.com/california-privacy-policy)
+
+## Optional
+
+- [Religion of Sports on LinkedIn](https://www.linkedin.com/company/religion-of-sports)
+- [Independent API Evangelist profile](https://apis.io/provider/religion-of-sports/): third-party
+  catalog record; not operated by or affiliated with Religion of Sports.
