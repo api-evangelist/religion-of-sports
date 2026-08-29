@@ -12,6 +12,17 @@ description: >-
   surface is a marketing and press site; the company operates no developer program, publishes no
   API documentation, and exposes no machine-readable contract.
 url: https://raw.githubusercontent.com/api-evangelist/religion-of-sports/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://cdn.prod.website-files.com/66b0c0227ef11307efb1cf8c/66bcfa9e74b41c90f32de3c2_Religion%20of%20Sports%20webclip.jpg
 x-type: company
 x-source: harvest:secondary-market
